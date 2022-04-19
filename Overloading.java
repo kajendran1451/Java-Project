@@ -27,4 +27,4 @@ public static void main(String[] args) {
 	emp.detail(10, 20, 30);
 	
 }
-}
+
